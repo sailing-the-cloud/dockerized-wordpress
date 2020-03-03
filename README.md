@@ -1,2 +1,3 @@
 # dockerized-wordpress
-WordPress docker image using Nginx 
+
+WordPress docker image using Nginx.
